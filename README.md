@@ -30,4 +30,4 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 项目图片展示图：
-![Image text]https://github.com/zephyr520/hc-admin/blob/master/menu.saveimg.savepath20181229174006.jpg
+https://raw.githubusercontent.com/zephyr520/hc-admin/master/menu.saveimg.savepath20181229174006.jpg
