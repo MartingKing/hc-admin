@@ -32,4 +32,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 项目图片展示图：
 ![image](https://raw.githubusercontent.com/zephyr520/hc-admin/master/menu.saveimg.savepath20181229174006.jpg)
 ![image](https://raw.githubusercontent.com/zephyr520/hc-admin/master/menu.saveimg.savepath20181229174056.jpg)
-![image](https://github.com/zephyr520/hc-admin/blob/master/menu.saveimg.savepath20181229174218.jpg)
+![image](https://raw.githubusercontent.com/zephyr520/hc-admin/master/menu.saveimg.savepath20181229174218.jpg)
